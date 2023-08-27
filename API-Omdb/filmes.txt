@@ -1,0 +1,1 @@
+nome='Oppenheimer', anoDeLancamento=2023, Duracao: 18
